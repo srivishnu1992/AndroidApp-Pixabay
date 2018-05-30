@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pixabay</string>
+    <string name="strNull" />
+    <string name="strKey">Enter Keyword</string>
+    <string name="strSearch">Search</string>
+    <string name="file">Clear</string>
+</resources>
